@@ -1,0 +1,5 @@
+﻿Source Port,Destination Port,NAT Source Port,NAT Destination Port,Bytes,Bytes Sent,Bytes Received,Packets,Elapsed Time (sec),pkts_sent,pkts_received
+54280,445,0,0,70,70,0,1,0,1,0
+59225,445,0,0,70,70,0,1,0,1,0
+59220,445,0,0,70,70,0,1,0,1,0
+59216,445,0,0,70,70,0,1,0,1,0
